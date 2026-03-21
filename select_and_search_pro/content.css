@@ -1,0 +1,36 @@
+/* Styles for the selection toolbar */
+#my-extension-toolbar {
+  position: absolute;
+  z-index: 2147483647; /* Max z-index */
+  background-color: #333;
+  color: white;
+  border-radius: 4px;
+  padding: 3px 4px;
+  display: flex;
+  gap: 4px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  font-family: sans-serif;
+  font-size: 13px;
+  pointer-events: auto;
+}
+
+#my-extension-toolbar button {
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 3px 8px;
+  border-radius: 3px;
+  font-size: 13px;
+  line-height: 1.2;
+}
+
+#my-extension-toolbar button:hover {
+  background-color: #555;
+}
+
+#my-extension-toolbar .separator {
+  width: 1px;
+  background-color: #555;
+  margin: 0 2px;
+}
