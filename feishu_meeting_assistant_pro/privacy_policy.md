@@ -79,7 +79,7 @@ Last updated: 2026-04-12
 
 如果您对本隐私政策有任何疑问，请联系我们：
 
-Email: your-email@example.com
+Email: anyask@gmail.com
 
 ## 更新说明
 
